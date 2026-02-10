@@ -1,1 +1,1 @@
-# go_proj
+# CLI-Todo-App-In-Go
